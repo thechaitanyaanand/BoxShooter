@@ -17,8 +17,8 @@
   "name":"oPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
