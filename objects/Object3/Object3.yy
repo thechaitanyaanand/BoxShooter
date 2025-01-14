@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oMenu",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object3",
+  "eventList":[],
   "managed":true,
-  "name":"oMenu",
+  "name":"Object3",
   "overriddenProperties":[],
   "parent":{
     "name":"BLANK GAME",
