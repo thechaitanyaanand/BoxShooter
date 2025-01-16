@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rmMode);
+room_goto(rmPlatformer);
