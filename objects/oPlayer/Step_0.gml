@@ -8,3 +8,9 @@ if(keyboard_check_pressed(vk_escape))
 	{
 		room_goto(rmMode);
 	}
+	
+
+if(global.playerHP<0)
+{
+	room_goto(Room5);
+}
