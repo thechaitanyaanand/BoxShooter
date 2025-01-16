@@ -1,7 +1,7 @@
 camWidth = 640;
 camHeight = 360;
 
-follow = oChar;
+follow = oPlayer;
 
 xTo = x;
 yTo = y;
