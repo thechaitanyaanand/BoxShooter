@@ -5,7 +5,7 @@ alarm[0] = room_speed * .5; // .5 seconds * 60 steps per second
 global.destroyed_objects = 0;
 
 
-safe_distance = 200; // Minimum distance from oPlayer
+safe_distance = 250; // Minimum distance from oPlayer
 
 global.playerHP = 100;	
 

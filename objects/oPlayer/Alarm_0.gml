@@ -27,5 +27,5 @@ if (player != noone) {
 }
 
 // Reset the alarm for continuous spawning
-alarm[0] = room_speed * 3; // Spawn every 5 seconds
+alarm[0] = room_speed * 2; // Spawn every 5 seconds
 
