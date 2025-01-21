@@ -1,5 +1,5 @@
-camWidth = 640;
-camHeight = 360;
+camWidth = 800;
+camHeight = 450;
 
 follow = oPlayer;
 
